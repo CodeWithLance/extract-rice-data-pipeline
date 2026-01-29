@@ -1,6 +1,7 @@
 # --- IGNORE PRIVATE FOLDERS ---
 Python Scripts/
 USDA FAS Files/
+Tesseract OCR/
 
 # --- IGNORE SYSTEM FILES ---
 __pycache__/
