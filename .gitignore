@@ -1,0 +1,8 @@
+# --- IGNORE PRIVATE FOLDERS ---
+Python Scripts/
+USDA FAS Files/
+
+# --- IGNORE SYSTEM FILES ---
+__pycache__/
+*.pyc
+.DS_Store
